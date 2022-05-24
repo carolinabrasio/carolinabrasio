@@ -2,7 +2,7 @@
 - 🌱 I’m always learning!
 - 📫 Contact me through [Linkedin](linkedin.com/in/carolinabrasio)
 
-![Open Peeps - Standing](https://user-images.githubusercontent.com/57901416/170011411-59eda309-b712-4278-91d5-7a162b4c0a2f.png)
+![Open Peeps - Standing-green](https://user-images.githubusercontent.com/57901416/170018759-2f34d4e2-af53-43ee-bcda-6cb3ff95d2f7.png)
 
 <!---
 carolinabrasio/carolinabrasio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
